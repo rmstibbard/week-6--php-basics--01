@@ -14,7 +14,7 @@ for ($i = 1; $i <= 100; $i += 1) {
     }
 }
 
-// 2. Much better solution used ternary statements 
+// 2. Much better solution uses ternary statements 
 //  as can easily add any number of words 
 // (Dan's or Kieran's answer):
 for ($i = 1; $i <= 100; $i += 1) {
