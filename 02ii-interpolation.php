@@ -6,7 +6,5 @@ $string3 = "to";
 $string4 = "boogie";
 $string5 = "boogie";
 
-$joined = "$string1 $string2 $string3 $string4 $string5";
-$joined2 = "{$string1} {$string2} {$string3} {$string4} {$string5}"; // Difference? The {}s seem unnecessary
+$joined = "{$string1} {$string2} {$string3} {$string4} {$string5}";
 var_dump($joined); // string(23) "I like to boogie boogie"
-var_dump($joined2); // string(23) "I like to boogie boogie"

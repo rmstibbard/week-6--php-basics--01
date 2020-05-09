@@ -1,5 +1,6 @@
-# Richard Stibbard - Week 6 - PHP Basics Challenges 01
-
+# Week 6 - PHP Basics Challenges 01
+## Repo name: week-6--php-basics--01
+## Local folder: 01-01
 
 - 01-add-numbers.php	
 - 02i-concatenation.php
